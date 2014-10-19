@@ -2,8 +2,8 @@ name:                trass-config
 version:             0.1
 synopsis:            Config management library for TRASS.
 -- description:
-homepage:            https://github.com/fizruk/trass-config
-bug-reports:         https://github.com/fizruk/trass-config/issues
+homepage:            https://github.com/trass/trass-config
+bug-reports:         https://github.com/trass/trass-config/issues
 license:             BSD3
 license-file:        LICENSE
 author:              Nickolay Kudasov
@@ -32,5 +32,5 @@ library
 
 source-repository head
   type: git
-  location: https://github.com/fizruk/trass-config.git
+  location: https://github.com/trass/trass-config.git
   branch: master
